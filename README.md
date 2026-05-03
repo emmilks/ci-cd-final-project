@@ -28,3 +28,7 @@ This repository contains a Node.js/Express.js version of the counter service for
 1. **Install dependencies:**
    ```bash
    npm install
+
+## Update README
+
+Updated.
